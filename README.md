@@ -1,14 +1,14 @@
 # TweetHub
 
-TweetHub is a Twitter-like application built with Django. It allows users to sign up, log in, log out, create tweets, edit tweets, and delete tweets. Users can also add images to their tweets.
+A minimal Twitter-style app built with Django. Users can create an account, post tweets, edit or delete them, and attach images.
 
 ![TweetHub](https://github.com/aniketpatidar/TweetHub/blob/main/media/photos/Screenshot%20from%202024-06-22%2011-05-10.png)
 
 ## Features
 
-- User Authentication: Sign up, log in, and log out
-- Create, Read, Update, and Delete (CRUD) tweets
-- Add images to tweets
+- User sign up, login, and logout
+- Create, edit, delete, and view tweets
+- Image support for tweets
 
 ## Getting Started
 
